@@ -4,6 +4,4 @@
 
 ## data viz mobility trends (apple maps &amp; google maps)
 
-### average percent change of mobility requests (02/2020—02/2021) relative to 01/2020
-
 ![map](../assets/img.svg)
