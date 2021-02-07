@@ -4,4 +4,6 @@
 
 ## data viz mobility trends (apple maps &amp; google maps)
 
+### avg % change # mobility requests (02/2020—02/2021) / 01/2020
+
 ![map](../assets/img.svg)
