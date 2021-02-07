@@ -3,3 +3,5 @@
 # ![logo](./img/logo.svg)
 
 ## data viz mobility trends (apple maps &amp; google maps)
+
+![map](../assets/img.svg)
